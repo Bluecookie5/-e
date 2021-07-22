@@ -1,0 +1,36 @@
+h3{
+  color:rebeccapurple;
+  font-size: 18px;
+  text-align: right;
+  font-family: cursive;
+}
+p{
+  color: goldenrod;
+  font-family: fantasy;
+}
+li{
+  color:cornflowerblue;
+  font-family: fantasy;
+  font-size: 18px;
+}
+a{
+  color: goldenrod;
+  font-family: f;
+}
+  body{
+    background-color:azure;
+  }
+
+  .red{
+    color:palevioletred
+  }
+ .m{
+   color:lightcoral;
+   font-size: 23px;
+ }
+ .pink{
+   background-color: pink
+ }
+ div{
+   background-color:silver
+ }
